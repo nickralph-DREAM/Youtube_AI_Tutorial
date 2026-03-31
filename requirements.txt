@@ -1,0 +1,3 @@
+Run this is terminal:
+
+python3 ~/Documents/CoWork/serve.py
